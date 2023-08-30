@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Azure Networks](README.md)
+* [Learning Azure Business Continuity and Disaster Recovery](README.md)
