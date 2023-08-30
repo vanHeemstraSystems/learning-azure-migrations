@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning Azure Networks"
+  title: "Learning Azure Business Continuity and Disaster Recovery"
   page-navigation: true
   navbar:
     left:
