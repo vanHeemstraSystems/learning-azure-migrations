@@ -1,5 +1,5 @@
 ---
-title: "Learning Azure Networks"
+title: "Learning Azure Business Continuity and Disaster Recovery"
 ---
 
 This is a Quarto website.
