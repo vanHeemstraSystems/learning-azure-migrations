@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-azure-migrations/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-azure-migrations/sitemap.xml
